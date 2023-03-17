@@ -1,0 +1,1 @@
+"FG_avg", "FG_attempted_avg", "FG_rate_avg", "ThreeP_avg", "ThreeP_attempted_avg", "ThreeP_rate_avg", "TwoP_avg", "TwoP_attempted_avg", "TwoP_rate_avg", "FT_avg", "FT_attempted_avg", "FT_rate_avg", "OR_avg", "DR_avg", "AST_avg", "STL_avg", "BLK_avg", "TOV_avg", "PF_avg", "PTS_avg",
